@@ -32,7 +32,7 @@ until I find a job, this bot will remind everyone about me with a daily commit.
 
 ## Badges:
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Artur-Nayman/Daily-Commit/daily_commit.yml?branch=master)  
+![GitHub Workflow Status](![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Artur-Nayman/Daily-Commit/daily_commit.yml?branch=master)  
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Artur-Nayman/Daily-Commit)
 
 ---
