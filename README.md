@@ -18,9 +18,7 @@ until I find a job, this bot will remind everyone about me with a daily commit.
 
 ---
 
-🧠 By the way, I do more than this — take a look at my [portfolio](https://artur-nayman.github.io/personal-portfolio/)).
-
-🔗 Link: https: https://artur-nayman.github.io/personal-portfolio/
+🧠 By the way, I do more than this — take a look at my [portfolio](https://artur-nayman.github.io/personal-portfolio/)🔗
 
 ---
 
