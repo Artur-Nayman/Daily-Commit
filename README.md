@@ -9,6 +9,10 @@ until I find a job, this bot will remind everyone about me with a daily commit.
 
 ---
 
+🤖 Think of this bot as my very own automated personal marketer — tirelessly promoting me 24/7, no coffee breaks needed!
+
+---
+
 🔍 Check out the code, and if you like it — drop me a message!  
 📫 Contact: [arturnaiman@gmail.com](mailto:arturnaiman@gmail.com)
 
