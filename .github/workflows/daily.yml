@@ -18,11 +18,20 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Run commit script
+      - name: Configure Git user
         run: |
-          python commit.py
           git config --global user.name "Artur Nayman"
           git config --global user.email "arturnaiman@gmail.com"
+
+      - name: Run commit script
+        run: python commit.py
+
+      - name: Commit changes
+        run: |
           git add .
           git commit -m "Daily commit $(date)" || echo "Nothing to commit"
+
+      - name: Pull latest changes and push
+        run: |
+          git pull --rebase
           git push
