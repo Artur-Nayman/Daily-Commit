@@ -3,7 +3,7 @@ from datetime import datetime
 with open("log.txt", "a") as file:
     file.write(f"Daily commit: {datetime.now()}\n")
 
-START_DATE = datetime(2025, 6, 1)  # Вкажи тут дату початку пошуку роботи
+START_DATE = datetime(2025, 6, 1)
 
 def update_readme_counter():
     today = datetime.now()
